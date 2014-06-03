@@ -45,6 +45,10 @@ A collection of useful resources to learn and improve your [AngularJS](http://ww
 * [Infinite Scroll](http://jsfiddle.net/vojtajina/U7Bz9/)
 * [Nested Views with UI-Router](http://plnkr.co/edit/3KgB5g?p=preview)
 
+#### Tools
+* [ng-inspector](http://ng-inspector.org/)
+* [Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html)
+
 #### Magazines
 * [AngularJS Daily](http://www.angularjsdaily.com/)
 * [ng-newsletter](http://www.ng-newsletter.com/)
