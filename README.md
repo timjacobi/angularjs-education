@@ -54,6 +54,7 @@ A collection of useful resources to learn and improve your [AngularJS](http://ww
 * [ng-newsletter](http://www.ng-newsletter.com/)
 * [Year of Moo](http://www.yearofmoo.com/)
 * [Ode to code](http://odetocode.com/)
+* [egghead.io - Video Tutorials](https://egghead.io/)
 
 #### Presentations
 * [Models and Rest APIs on AngularJS with Restangular](http://www.parleys.com/play/535a189ee4b0c5ba17d43455/chapter1/about)
