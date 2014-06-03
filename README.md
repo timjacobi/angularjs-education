@@ -1,6 +1,6 @@
 ## ![AngularJS](http://i.imgur.com/jerfRGy.png) AngularJS Education
 
-A collection of useful resources to learn and improve your [AngularJS](http://www.angularjs.org) skills.
+#### *“A collection of useful resources to learn and improve your [AngularJS](http://www.angularjs.org) skills.”*
 
 
 #### Introductory
@@ -41,7 +41,7 @@ A collection of useful resources to learn and improve your [AngularJS](http://ww
 #### Documentation
 * [API Docs Syntax](https://github.com/idanush/ngdocs/wiki/API-Docs-Syntax)
 
-#### Examples (jsfiddle, ...)
+#### Live Examples
 * [Recursive Tree View](http://jsfiddle.net/brendanowen/uXbn6/8/)
 * [Infinite Scroll](http://jsfiddle.net/vojtajina/U7Bz9/)
 * [Nested Views with UI-Router](http://plnkr.co/edit/3KgB5g?p=preview)
