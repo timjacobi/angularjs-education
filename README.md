@@ -55,8 +55,10 @@ A collection of useful resources to learn and improve your [AngularJS](http://ww
 * [Models and Rest APIs on AngularJS with Restangular](http://www.parleys.com/play/535a189ee4b0c5ba17d43455/chapter1/about)
 
 #### Books
-TBC
+* [Lerner, Ari - ngBook] (https://www.ng-book.com/)
+
 #### Groups
 TBC
+
 #### Conferences
-TBC
+* [ng-conf, Salt Lake City](http://ng-conf.org/)
