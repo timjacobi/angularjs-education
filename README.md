@@ -1,4 +1,4 @@
-## AngularJS Education
+## ![AngularJS](http://i.imgur.com/jerfRGy.png) AngularJS Education
 
 A collection of useful resources to learn and improve your [AngularJS](http://www.angularjs.org) skills.
 
