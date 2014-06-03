@@ -1,4 +1,51 @@
-angular-education
-=================
+## AngularJS Education
 
-A collection of material for AngularJS education
+A collection of useful resources to learn and improve your [AngularJS](http://www.angularjs.org) skills.
+
+
+#### Introductory
+* [Everything you need to understand to start with AngularJS](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
+* [How do I “think in AngularJS” if I have a jQuery background?](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
+* [PhoneCat Tutorial App](https://docs.angularjs.org/tutorial)
+* [Demystifying Angular Directives](https://www.youtube.com/watch?v=0r5QvzjjKDc)
+
+#### Best Practices
+* [ANGULARJS BEST PRACTICES: I’VE BEEN DOING IT WRONG!](http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/)
+* [Angular services and useable patterns](http://www.metaltoad.com/blog/angular-services-and-useable-patterns)
+* [AngularJS Common Pitfalls Using Scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes)
+* [Service, Provider or Factory?](http://stackoverflow.com/questions/15666048/angular-js-service-vs-provider-vs-factory)
+
+#### Visualisation
+* [Proper use of D3.js with Angular directives](http://www.metaltoad.com/blog/angular-services-and-useable-patterns)
+* [Remastered Animation in AngularJS 1.2](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
+* [Staggering Animations in AngularJS](http://www.yearofmoo.com/2013/12/staggering-animations-in-angularjs.html)
+
+#### Advanced
+* [What are the nuances of scope prototypal / prototypical inheritance in AngularJS?](http://stackoverflow.com/questions/14049480/what-are-the-nuances-of-scope-prototypal-prototypical-inheritance-in-angularjs)
+* [$watch, $digest and $apply](http://www.benlesh.com/2013/08/angularjs-watch-digest-and-apply-oh-my.html)
+* [Internationalisation with AngularJS](http://blog.trifork.com/2014/04/10/internationalization-with-angularjs/)
+* [AngularJS Websocket Service Example](http://clintberry.com/2013/angular-js-websocket-service/)
+* [Websocklet and $rootScope.apply()](http://stackoverflow.com/questions/21658490/angular-websocket-and-rootscope-apply)
+* [Restangular on Angular](http://www.ng-newsletter.com/posts/restangular.html)
+
+#### Testing
+* [Full-Spectrum Testing with AngularJS and Karma](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
+* [Advanced Testing and Debugging in AngularJS](http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
+
+#### Documentation
+* [API Docs Syntax](https://github.com/idanush/ngdocs/wiki/API-Docs-Syntax)
+
+#### Magazines
+* [AngularJS Daily](http://www.angularjsdaily.com/)
+* [ng-newsletter](http://www.ng-newsletter.com/)
+* [Year of Moo](http://www.yearofmoo.com/)
+
+#### Presentations
+* [Models and Rest APIs on AngularJS with Restangular](http://www.parleys.com/play/535a189ee4b0c5ba17d43455/chapter1/about)
+
+#### Books
+TBC
+#### Groups
+TBC
+#### Conferences
+TBC
