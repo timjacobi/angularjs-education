@@ -29,7 +29,7 @@ A collection of useful resources to learn and improve your [AngularJS](http://ww
 * [$watch, $digest and $apply](http://www.benlesh.com/2013/08/angularjs-watch-digest-and-apply-oh-my.html)
 * [Internationalisation with AngularJS](http://blog.trifork.com/2014/04/10/internationalization-with-angularjs/)
 * [AngularJS Websocket Service Example](http://clintberry.com/2013/angular-js-websocket-service/)
-* [Websocklet and $rootScope.apply()](http://stackoverflow.com/questions/21658490/angular-websocket-and-rootscope-apply)
+* [Websocket and $rootScope.apply()](http://stackoverflow.com/questions/21658490/angular-websocket-and-rootscope-apply)
 * [Restangular on Angular](http://www.ng-newsletter.com/posts/restangular.html)
 * [Compile, Pre, and Post Linking](http://odetocode.com/blogs/scott/archive/2014/05/28/compile-pre-and-post-linking-in-angularjs.aspx)
 
