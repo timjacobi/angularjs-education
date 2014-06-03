@@ -8,6 +8,7 @@ A collection of useful resources to learn and improve your [AngularJS](http://ww
 * [How do I “think in AngularJS” if I have a jQuery background?](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
 * [PhoneCat Tutorial App](https://docs.angularjs.org/tutorial)
 * [Demystifying Angular Directives](https://www.youtube.com/watch?v=0r5QvzjjKDc)
+* [CodeSchool - Shaping up with AngularJS](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 
 #### Best Practices
 * [ANGULARJS BEST PRACTICES: I’VE BEEN DOING IT WRONG!](http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/)
