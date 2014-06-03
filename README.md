@@ -62,8 +62,8 @@
 * [Models and Rest APIs on AngularJS with Restangular](http://www.parleys.com/play/535a189ee4b0c5ba17d43455/chapter1/about)
 
 #### Books
-* [Lerner, Ari - ngBook] (https://www.ng-book.com/)
-
+* [Lerner, Ari - ngBook](https://www.ng-book.com/)
+* [Gechev, Minko - AngularJS in Patterns](https://github.com/mgechev/angularjs-in-patterns)
 #### Groups
 TBC
 
