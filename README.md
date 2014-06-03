@@ -9,6 +9,7 @@
 * [PhoneCat Tutorial App](https://docs.angularjs.org/tutorial)
 * [Demystifying Angular Directives](https://www.youtube.com/watch?v=0r5QvzjjKDc)
 * [CodeSchool - Shaping up with AngularJS](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+* [AngularJS Form Validation](http://scotch.io/tutorials/javascript/angularjs-form-validation)
 
 #### Best Practices
 * [ANGULARJS BEST PRACTICES: I’VE BEEN DOING IT WRONG!](http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/)
