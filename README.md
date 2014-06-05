@@ -68,7 +68,7 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [Lerner, Ari - ngBook](https://www.ng-book.com/)
 
 #### Groups
-TBC
+[AngularJS Meetup Groups around the globe](http://angularjs.meetup.com/)
 
 #### Conferences
 * [ng-conf, Salt Lake City](http://ng-conf.org/)
