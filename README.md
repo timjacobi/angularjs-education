@@ -2,6 +2,8 @@
 
 ### *“A collection of useful resources to learn and improve your [AngularJS](http://www.angularjs.org) skills.”*
 
+If you want to submit a link just head over to [CONTRIBUTING.md](https://github.com/timjacobi/angular-education/blob/master/CONTRIBUTING.md) for further instructions.
+
 
 #### Introductory
 * [Everything you need to understand to start with AngularJS](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
