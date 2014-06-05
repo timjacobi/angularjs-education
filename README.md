@@ -72,3 +72,4 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 
 #### Conferences
 * [ng-conf, Salt Lake City](http://ng-conf.org/)
+* [ng-europe, Paris](http://ngeurope.org/)
