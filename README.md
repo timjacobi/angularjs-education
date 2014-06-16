@@ -20,6 +20,7 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [Service, Provider or Factory?](http://stackoverflow.com/questions/15666048/angular-js-service-vs-provider-vs-factory)
 * [GlobalCtrl vs $rootScope vs Service](http://stackoverflow.com/questions/17006054/angularjs-globalctrl-vs-rootscope-vs-service/17006410#17006410)
 * [Let's Make Full-Ass AngularJS Directives](http://joelhooks.com/blog/2014/02/11/lets-make-full-ass-angularjs-directives)
+* [AngularJS directive design made easy](http://seanhess.github.io/2013/10/14/angularjs-directive-design.html)
 
 #### Visualisation
 * [Proper use of D3.js with Angular directives](http://www.metaltoad.com/blog/angular-services-and-useable-patterns)
