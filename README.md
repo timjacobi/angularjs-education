@@ -41,6 +41,7 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [Frictionless data preloading in AngularJS](http://www.garbl.es/angularjs/preload/2014/06/07/frictionless-data-preloading-in-angularjs/)
 * [Rethinking AngularJS Controllers](http://toddmotto.com/rethinking-angular-js-controllers/)
 * [Everything about custom filters in AngularJS](http://toddmotto.com/everything-about-custom-filters-in-angular-js/)
+* [AngularJS Promises - The Definitive Guide](http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/)
 
 #### Testing
 * [Full-Spectrum Testing with AngularJS and Karma](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
