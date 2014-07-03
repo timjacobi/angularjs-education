@@ -43,6 +43,7 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [Rich Object Models and Angular.js](http://blog.shinetech.com/2014/02/04/rich-object-models-and-angular-js/)
 * [Everything about custom filters in AngularJS](http://toddmotto.com/everything-about-custom-filters-in-angular-js/)
 * [AngularJS Promises - The Definitive Guide](http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/)
+* [Interceptors in AngularJS](http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
 
 #### Testing
 * [Full-Spectrum Testing with AngularJS and Karma](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
