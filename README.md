@@ -63,12 +63,14 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [ng-inspector](http://ng-inspector.org/)
 * [Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html)
 
-#### Magazines
+#### Magazines/Blogs
 * [AngularJS Daily](http://www.angularjsdaily.com/)
 * [ng-newsletter](http://www.ng-newsletter.com/)
 * [Year of Moo](http://www.yearofmoo.com/)
 * [Ode to code](http://odetocode.com/)
-* [egghead.io - Video Tutorials](https://egghead.io/)
+* [egghead.io - Video Tutorials](https://www.egghead.io/)
+* [Todd Motto](http://www.toddmotto.com/)
+* [Angular Tips](http://www.angular-tips.com/)
 
 #### Presentations
 * [Models and Rest APIs on AngularJS with Restangular](http://www.parleys.com/play/535a189ee4b0c5ba17d43455/chapter1/about)
