@@ -51,6 +51,11 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 #### Testing
 * [Full-Spectrum Testing with AngularJS and Karma](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
 * [Advanced Testing and Debugging in AngularJS](http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
+* 
+
+#### Performance
+* [AngularJS: Performance basics](http://www.fse.guru/angularjs-performance-basics)
+* [AngularJS: Performance tips](http://www.fse.guru/angularjs-performance-tips)
 
 #### Documentation
 * [API Docs Syntax](https://github.com/idanush/ngdocs/wiki/API-Docs-Syntax)
