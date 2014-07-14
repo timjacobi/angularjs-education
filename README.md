@@ -23,6 +23,7 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [Let's Make Full-Ass AngularJS Directives](http://joelhooks.com/blog/2014/02/11/lets-make-full-ass-angularjs-directives)
 * [AngularJS directive design made easy](http://seanhess.github.io/2013/10/14/angularjs-directive-design.html)
 * [Code Guidelines](http://www.fse.guru/angularjs-code-guidelines)
+* [AngularJS: "Controller as" or "$scope"?](http://codetunnel.com/angularjs-controller-as-or-scope/)
 
 #### Visualisation
 * [Proper use of D3.js with Angular directives](http://www.metaltoad.com/blog/angular-services-and-useable-patterns)
