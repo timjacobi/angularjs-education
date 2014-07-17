@@ -24,6 +24,7 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [AngularJS directive design made easy](http://seanhess.github.io/2013/10/14/angularjs-directive-design.html)
 * [Code Guidelines](http://www.fse.guru/angularjs-code-guidelines)
 * [AngularJS: "Controller as" or "$scope"?](http://codetunnel.com/angularjs-controller-as-or-scope/)
+* [AngularJS Data Models: $http VS $resource VS Restangular](http://sauceio.com/index.php/2014/07/angularjs-data-models-http-vs-resource-vs-restangular/)
 
 #### Visualisation
 * [Proper use of D3.js with Angular directives](http://www.metaltoad.com/blog/angular-services-and-useable-patterns)
