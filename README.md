@@ -65,6 +65,7 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [Recursive Tree View](http://jsfiddle.net/brendanowen/uXbn6/8/)
 * [Infinite Scroll](http://jsfiddle.net/vojtajina/U7Bz9/)
 * [Nested Views with UI-Router](http://plnkr.co/edit/3KgB5g?p=preview)
+* [Compile and linking processes](http://jsbin.com/ekIJUYU/2/watch?html,js,console,output)
 
 #### Tools
 * [ng-inspector](http://ng-inspector.org/)
