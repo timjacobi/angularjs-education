@@ -69,6 +69,7 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [Infinite Scroll](http://jsfiddle.net/vojtajina/U7Bz9/)
 * [Nested Views with UI-Router](http://plnkr.co/edit/3KgB5g?p=preview)
 * [Compile and linking processes](http://jsbin.com/ekIJUYU/2/watch?html,js,console,output)
+* [Resolve with UI Router, Restangular and Controller as](http://plnkr.co/edit/uGIUIcQNo5UFBWwJ3MUM?p=preview)
 
 #### Tools
 * [ng-inspector](http://ng-inspector.org/)
