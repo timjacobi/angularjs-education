@@ -61,6 +61,11 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [AngularJS: Performance basics](http://www.fse.guru/angularjs-performance-basics)
 * [AngularJS: Performance tips](http://www.fse.guru/angularjs-performance-tips)
 
+#### Debugging
+* [Debugging AngularJS Apps from the Console](http://ionicframework.com/blog/angularjs-console/)
+* [Batarang Chrome Extension](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en)
+* [NG-Inspector Chrome Extension](https://chrome.google.com/webstore/detail/ng-inspector-for-angularj/aadgmnobpdmgmigaicncghmmoeflnamj?hl=en)
+
 #### Documentation
 * [API Docs Syntax](https://github.com/idanush/ngdocs/wiki/API-Docs-Syntax)
 
