@@ -76,9 +76,10 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [Compile and linking processes](http://jsbin.com/ekIJUYU/2/watch?html,js,console,output)
 * [Resolve with UI Router, Restangular and Controller as](http://plnkr.co/edit/uGIUIcQNo5UFBWwJ3MUM?p=preview)
 
-#### Tools
+#### Tooling
 * [ng-inspector](http://ng-inspector.org/)
 * [Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html)
+* [Let's build: An AngularJS app with Browserify and Gulp](http://mindthecode.com/lets-build-an-angularjs-app-with-browserify-and-gulp/)
 
 #### Magazines/Blogs
 * [AngularJS Daily](http://www.angularjsdaily.com/)
