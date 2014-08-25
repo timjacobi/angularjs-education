@@ -26,6 +26,7 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [AngularJS: "Controller as" or "$scope"?](http://codetunnel.com/angularjs-controller-as-or-scope/)
 * [AngularJS Data Models: $http VS $resource VS Restangular](http://sauceio.com/index.php/2014/07/angularjs-data-models-http-vs-resource-vs-restangular/)
 * [John Papa AngularJS Styleguide](https://github.com/johnpapa/angularjs-styleguide)
+* [Opinionated AngularJS styleguide for teams](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 
 #### Visualisation
 * [Proper use of D3.js with Angular directives](http://www.metaltoad.com/blog/angular-services-and-useable-patterns)
