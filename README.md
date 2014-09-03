@@ -57,6 +57,7 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 
 #### Under the hood
 * [Compile process](http://www.slideshare.net/EyalV/angular-js-compile-process)
+* [The nitty-gritty of compile and link functions inside AngularJS directives](http://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives/?utm_source=twitterfeed&utm_medium=twitter)
 
 #### Performance
 * [AngularJS: Performance basics](http://www.fse.guru/angularjs-performance-basics)
