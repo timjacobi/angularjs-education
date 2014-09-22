@@ -50,6 +50,7 @@ If you want to submit a link just head over to [CONTRIBUTING.md](https://github.
 * [Everything about custom filters in AngularJS](http://toddmotto.com/everything-about-custom-filters-in-angular-js/)
 * [AngularJS Promises - The Definitive Guide](http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/)
 * [Interceptors in AngularJS](http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
+* [A Journey With Trusted HTML in AngularJS](http://odetocode.com/blogs/scott/archive/2014/09/10/a-journey-with-trusted-html-in-angularjs.aspx)
 
 #### Testing
 * [Full-Spectrum Testing with AngularJS and Karma](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
