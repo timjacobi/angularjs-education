@@ -2,7 +2,7 @@
 
 ### *“A collection of useful resources to learn and improve your [AngularJS](http://www.angularjs.org) skills.”*
 
-If you want to submit a link just head over to [CONTRIBUTING.md](https://github.com/timjacobi/angular-education/blob/master/CONTRIBUTING.md) for further instructions.
+If you want to add a resource please open a new issue or comment on an existing one. I will review the article as I'd like this list to be quality over quantity.
 
 
 #### Introductory
