@@ -28,6 +28,7 @@ If you want to add a resource please open a new issue or comment on an existing 
 * [John Papa AngularJS Styleguide](https://github.com/johnpapa/angularjs-styleguide)
 * [Opinionated AngularJS styleguide for teams](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 * [Angular model objects with JavaScript classes](https://medium.com/opinionated-angularjs/angular-model-objects-with-javascript-classes-2e6a067c73bc)
+* [How I've Improved My Angular Apps by Banning ng-controller](http://teropa.info/blog/2014/10/24/how-ive-improved-my-angular-apps-by-banning-ng-controller.html)
 
 #### Visualisation
 * [Proper use of D3.js with Angular directives](http://www.metaltoad.com/blog/angular-services-and-useable-patterns)
