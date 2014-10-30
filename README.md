@@ -88,12 +88,15 @@ If you want to add a resource please open a new issue or comment on an existing 
 * [Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html)
 * [Let's build: An AngularJS app with Browserify and Gulp](http://mindthecode.com/lets-build-an-angularjs-app-with-browserify-and-gulp/)
 
+#### Classes
+* [Angular Course](https://www.angularcourse.com)
+* [egghead.io - Video Tutorials](https://www.egghead.io/)
+
 #### Magazines/Blogs
 * [AngularJS Daily](http://www.angularjsdaily.com/)
 * [ng-newsletter](http://www.ng-newsletter.com/)
 * [Year of Moo](http://www.yearofmoo.com/)
 * [Ode to code](http://odetocode.com/)
-* [egghead.io - Video Tutorials](https://www.egghead.io/)
 * [Todd Motto](http://www.toddmotto.com/)
 * [Angular Tips](http://www.angular-tips.com/)
 
