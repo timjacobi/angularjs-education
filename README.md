@@ -60,6 +60,7 @@ If you want to add a resource please open a new issue or comment on an existing 
 * [Advanced Testing and Debugging in AngularJS](http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
 
 #### Under the hood
+* [Make Your Own AngularJS: Scopes and Digest](http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html)
 * [Compile process](http://www.slideshare.net/EyalV/angular-js-compile-process)
 * [The nitty-gritty of compile and link functions inside AngularJS directives](http://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives/?utm_source=twitterfeed&utm_medium=twitter)
 * [AngularJS: The Provider Subsystem](http://anandmanisankar.com/posts/angularjs-provider-subsystem/)
