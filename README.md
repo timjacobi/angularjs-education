@@ -32,10 +32,9 @@ If you want to add a resource please open a new issue or comment on an existing 
 * [Breaking Down AngularJS to Smaller Components](https://medium.com/@srph/breaking-down-angularjs-to-smaller-components-f2ab70a104d0)
 
 #### Visualisation
-* [Proper use of D3.js with Angular directives](http://www.metaltoad.com/blog/angular-services-and-useable-patterns)
+* [Proper use of D3.js with Angular directives](http://odiseo.net/angularjs/proper-use-of-d3-js-with-angular-directives)
 * [Remastered Animation in AngularJS 1.2](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 * [Staggering Animations in AngularJS](http://www.yearofmoo.com/2013/12/staggering-animations-in-angularjs.html)
-* [Screw D3.js, Bar Charts in AngularJS](http://www.chrisgarvis.com/blog/screw-d3-js-bar-charts-in-angularjs.html)
 * [Replacing (most of) d3.js with pure SVG + AngularJS](http://alexandros.resin.io/angular-d3-svg/)
 
 #### Advanced
