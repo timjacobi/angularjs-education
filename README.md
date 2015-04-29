@@ -53,6 +53,7 @@ If you want to add a resource please open a new issue or comment on an existing 
 * [AngularJS Promises - The Definitive Guide](http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/)
 * [Interceptors in AngularJS](http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
 * [A Journey With Trusted HTML in AngularJS](http://odetocode.com/blogs/scott/archive/2014/09/10/a-journey-with-trusted-html-in-angularjs.aspx)
+* [A 10 minute primer to the new Angular router (Jurgen Van de Moere)](http://jvandemo.com/a-10-minute-primer-to-the-new-angular-router/)
 
 #### Testing
 * [Full-Spectrum Testing with AngularJS and Karma](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
