@@ -46,7 +46,6 @@ If you want to add a resource please open a new issue or comment on an existing 
 * [Websocket and $rootScope.apply()](http://stackoverflow.com/questions/21658490/angular-websocket-and-rootscope-apply)
 * [Restangular on Angular](http://www.ng-newsletter.com/posts/restangular.html)
 * [Compile, Pre, and Post Linking](http://odetocode.com/blogs/scott/archive/2014/05/28/compile-pre-and-post-linking-in-angularjs.aspx)
-* [Frictionless data preloading in AngularJS](http://www.garbl.es/angularjs/preload/2014/06/07/frictionless-data-preloading-in-angularjs/)
 * [Rethinking AngularJS Controllers](http://toddmotto.com/rethinking-angular-js-controllers/)
 * [Rich Object Models and Angular.js](http://blog.shinetech.com/2014/02/04/rich-object-models-and-angular-js/)
 * [Everything about custom filters in AngularJS](http://toddmotto.com/everything-about-custom-filters-in-angular-js/)
