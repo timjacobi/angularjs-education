@@ -114,3 +114,4 @@ If you want to add a resource please open a new issue or comment on an existing 
 #### Conferences
 * [ng-conf, Salt Lake City](http://ng-conf.org/)
 * [ng-europe, Paris](http://ngeurope.org/)
+* [Angular Connect, London](http://angularconnect.com/)
