@@ -4,6 +4,10 @@
 
 If you want to add a resource please open a new issue or comment on an existing one. I will review the article as I'd like this list to be quality over quantity.
 
+##### UPDATED REPO LINKS!
+For Angular 1.x education please visit https://github.com/timjacobi/angularjs-education
+
+For Angular 2+ education please visit https://github.com/timjacobi/angular-education
 
 #### Introductory
 * [Everything you need to understand to start with AngularJS](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
